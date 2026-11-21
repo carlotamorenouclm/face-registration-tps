@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# Data and downloaded model (re-create with: python scripts/download_data.py)
+data/
+models/
+
+# macOS
+.DS_Store
